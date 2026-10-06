@@ -140,4 +140,4 @@ Python · LangChain · Groq · Sentence-Transformers (bge-m3) · ChromaDB · Tra
 
 ## 👤 Author
 
-**Ahmed Farouk** — AI Engineer
+**Basmala Farouk** — AI Engineer
