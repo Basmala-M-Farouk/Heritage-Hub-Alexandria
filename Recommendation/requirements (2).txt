@@ -1,0 +1,9 @@
+groq
+fastapi
+uvicorn
+pydantic
+pyngrok
+nest-asyncio
+firebase-admin
+requests
+httpx
