@@ -1,0 +1,18 @@
+langchain==0.2.16
+langchain-core==0.2.43
+langchain-groq==0.1.9
+langchain-community==0.2.16
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+docx2txt
+trafilatura
+geopy
+requests
+ipywidgets
+# Optional — only for serving the bot as an API
+fastapi
+uvicorn
+nest-asyncio
+pyngrok
